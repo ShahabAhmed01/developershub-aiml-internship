@@ -39,15 +39,6 @@ Each completed task lives in its own dedicated repository, linked in the tracker
 
 ---
 
-## Submission checklist
-
-- [x] Task 4 — GitHub repo created and linked
-- [ ] Task 4 — Submitted on Google Classroom
-- [ ] Task 4 — Posted on LinkedIn
-- [ ] Tasks 5 & 6 — In progress
-
----
-
 ## License
 
 MIT — see individual task repositories for full license text.
